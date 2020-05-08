@@ -316,15 +316,4 @@ animation: move-wave 3s;
 }
 
 /* Dashboard */
-.bgraph{
-  height:400px;
-  margin-top: 100px;
-}
-.tgraph{
- margin-top:20px;
- 
-}
-.tgraph1{
-  border: 1px solid black;
-  height: 200px;
-}
+
